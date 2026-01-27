@@ -10,7 +10,11 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+     Example of bad visualization: https://datavizproject.com/data-type/clustered-force-layout/
+     This bubble chart is difficult to interpret because values are encoded using circle area, which makes accurate comparisons difficult. The visualization lacks axes, numeric labels, and a clear legend, preventing users from understanding exact values or relationships. Overlapping circles create visual clutter and obscure information, increasing cognitive load. Overall, the chart prioritizes visual appeal over clarity and does not effectively support analysis.
+
+     Example of good visualization: https://public.tableau.com/app/profile/maureen.okonkwo/viz/UdemyCourseAnalysisDashboard/Dashboard    
+     This dashboard presents complex information in a clear and organized manner. Each chart includes labeled axes, descriptive titles, and consistent scales, allowing us to interpret trends accurately. The use of multiple coordinated charts supports exploration. Color is used consistently and meaningfully, and interactive filtering enhances usability.
 
 
 
@@ -21,7 +25,11 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+      Example of bad visualization: https://datavizproject.com/data-type/clustered-force-layout/
+      The chart could be improved by replacing bubbles with a bar chart or dot plot to enable easier comparisons. Clear axes, numeric labels, and a legend should be added. Categories should be ordered logically, and unnecessary overlap should be removed to improve readability.
+      
+      Example of good visualization: https://public.tableau.com/app/profile/maureen.okonkwo/viz/UdemyCourseAnalysisDashboard/Dashboard
+      Accessibility could be improved by using colorblind-friendly palettes. Brief annotations highlighting key trends would also help guide users to important insights.
 
 
 
